@@ -21,7 +21,6 @@ h1 {
     background-image: linear-gradient(orangered, orange, red);
     padding: 10px 30px;
     border-radius: 20px;
-    margin-top: 10px;
 }
 
 .height {
@@ -30,4 +29,15 @@ h1 {
 
 .color {
     color: orange;
+}
+
+.background {
+    background-image: url(./image/7.png);
+    display: flex;
+    margin-top: 10%;
+    margin-bottom: 10%;
+}
+
+.recepies {
+    text-align: center;
 }
