@@ -1,0 +1,33 @@
+body {
+    font-family: 'Abril Fatface', cursive;
+}
+
+.skip-diet {
+    display: flex;
+    margin-top: 5%;
+}
+
+h1 {
+    font-size: 57px;
+}
+
+.width {
+    width: 50%;
+    padding-left: 5%;
+}
+
+.order {
+    text-decoration: none;
+    background-image: linear-gradient(orangered, orange, red);
+    padding: 10px 30px;
+    border-radius: 20px;
+    margin-top: 10px;
+}
+
+.height {
+    width: 90%;
+}
+
+.color {
+    color: orange;
+}
